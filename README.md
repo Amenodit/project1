@@ -1,4 +1,4 @@
 # project1
 Trial1
 <br>
-text new world "hello world"-Author Premnath
+This is for the mini projects repo.
