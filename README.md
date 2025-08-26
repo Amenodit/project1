@@ -1,4 +1,3 @@
-# project1
-Trial1
+# Project1
 <br>
 This is for the mini projects repo.
